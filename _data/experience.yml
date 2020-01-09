@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: RSDATA Technologies
+  link: www.rsdata.co.za
+  job_title: Owner and Creative Director
+  dates: 2017 -> Present
+  # quote: >
+  #  A legal vehicle for creating value
+  # description: | # this will include new lines to allow paragraphs
+  #   I take care of Marketing and I take care of Innovation

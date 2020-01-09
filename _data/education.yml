@@ -1,9 +1,16 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Self Taught Software Ninja
+  dates: 2016 - Present
+  qualification: Certified Reading Machine
+  # quote: >
+  #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - I read books
+    - I read documentation 
+    - I listen to audiobooks
+    - I watch Youtube (on x2)
+    - I go at my own pace
+    - I choose my own direction
+    - I am in complete control of my Education
+    - I would have it no other way ;)
