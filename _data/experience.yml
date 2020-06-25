@@ -1,14 +1,14 @@
 # Experience template
 - layout: left
-  company: Innercircle Studios
-  link: www.beamm.co
-  job_title: Head of Engineering
-  dates: 2020 -> Present
-- layout: left
   company: RSDATA Technologies
   link: www.rsdata.co.za
   job_title: Owner and Creative Director
   dates: 2017 -> 2020
+- layout: left
+  company: Innercircle Studios
+  link: www.beamm.co
+  job_title: Head of Engineering
+  dates: 2020 -> Present
   # quote: >
   #  A legal vehicle for creating value
   # description: | # this will include new lines to allow paragraphs
