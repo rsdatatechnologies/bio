@@ -4,22 +4,22 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Daverin Nadesan
-title: Artist | Software Developer | 3D Generalist
-email: daverin.nadesan@rsdata.co.za
+title: Artist | Software Generalist | 3D Generalist
+email: daverin@beamm.co
 phone: "+27815544084"
 # website: www.rsdata.co.za
 
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  https://github.com/rsdatatechnologies?tab=repositories
+# github_username:  https://github.com/rsdatatechnologies?tab=repositories
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: https://www.instagram.com/daverinnadesan
-linkedin_username: https://www.linkedin.com/in/daverin-nadesan/
+# instagram_username: https://www.instagram.com/daverinnadesan
+# linkedin_username: https://www.linkedin.com/in/daverin-nadesan/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -43,12 +43,10 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/member_290694508.jpeg
+about_profile_image: images/download-removebg-preview-outline.png
 about_content: | # this will include new lines to allow paragraphs
-  I don't stay in one place for too long. I'm constantly chasing new technologies, more powerful frameworks, 
-  larger projects. I create value in the gaps between the industries I'm familiar with (currently Augmented Reality,
-  3D Animation, Web Development, Mobile App Development, and Cloud Architecture). I only commit to projects I am truely 
-  passionate about - there is no time for anything else. 
+  I am an artist and a generalist at my core. I create value in the gaps between the industries that I am familiar with - Augmented Reality,
+  3D Animation, Web Development, Mobile App Development, and Cloud Architecture. 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -62,25 +60,20 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  I learn programming language, software frameworks and creative application on demand
-  when I need them.
 
   Favourite languages:
   - Python
+  - Dart
   - C#
   
   Favourite Frameworks:
-  - Kubernetes (Container Orchestration)
-  - Unity (C#)
-  - FastAPI (Python)
-  
-  Favourite Creative Software:
-  - Blender
-  - Substance Painter
-  - After Effects
+  - Unity
+  - Flutter
+  - Kubernetes
+  - FastAPI
 
-  Frameworks I'm currently learning:
-  - React (JS)
+  Favourite 3D Software:
+  - Blender
   
 # Footer
 footer_show_references: true

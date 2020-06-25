@@ -1,8 +1,15 @@
 # Education Template
 - layout: left
-  name: Self Taught Software Ninja
-  dates: 2016 - Present
-  qualification: Certified Reading Machine
+  name: University of Pretoria
+  dates: 2016 - 2017
+  # quote: >
+  #   Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Completed year 1 Computer Engineering
+    - Dropped out in year 2
+- layout: left
+  name: Self Taught
+  dates: 2017 - Present
   # quote: >
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
@@ -12,5 +19,3 @@
     - I watch Youtube (on x2)
     - I go at my own pace
     - I choose my own direction
-    - I am in complete control of my Education
-    - I would have it no other way ;)
