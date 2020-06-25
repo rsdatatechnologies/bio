@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: University of Pretoria
-  dates: 2016 - 2017
+  dates: 2016 -> 2017
   # quote: >
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
@@ -9,7 +9,7 @@
     - Dropped out in year 2
 - layout: left
   name: Self Taught
-  dates: 2017 - Present
+  dates: 2017 -> Present
   # quote: >
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
