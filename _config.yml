@@ -61,20 +61,31 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
 
-  Favourite languages:
+  Languages:
   - Python
   - Dart
   - C#
+  - Javascript
+  - C++
+  - Java
   
-  Favourite Frameworks:
+  Frameworks:
   - Unity
   - Flutter
   - Kubernetes
-  - FastAPI
+  - FastAPI (Starlette)
+  - React
+  - Angular
 
-  Favourite 3D Software:
+  3D Design Software:
   - Blender
-  
+  - Substance Painter
+
+  2D Design Software:
+  - Photoshop
+  - Gimp
+  - Inkscape
+
 # Footer
 footer_show_references: true
 
