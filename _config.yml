@@ -45,8 +45,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/download-removebg-preview-outline.png
 about_content: | # this will include new lines to allow paragraphs
-  I am an artist and a generalist at my core. I create value in the gaps between the industries that I am familiar with - Augmented Reality,
-  3D Animation, Web Development, Mobile App Development, and Cloud Architecture. 
+  I am an artist and a generalist at my core. I create value in the gaps between the industries and technologies that I am familiar with - Augmented Reality,
+  3D Animation, 3D Rendering, Web Development, Mobile App Development, Cloud Architecture and Machine Learning.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
